@@ -14,6 +14,7 @@ A list of top AI agents
 | ![Logo](https://framerusercontent.com/images/VkrzvNwaWh4DbDwyBQ0GN3KuGTw.png) Godmode | Inspired by AutoGPT and BabyAGI, with nice UI | [Link](https://godmode.space) |  |  |
 | ![Logo](https://framerusercontent.com/images/anCwdMbghpiibMWZS2oEKelBlE.png) evo.ninja | AI agent that adapts its persona to achive tasks | [Link](https://evo.ninja/) | [Link](https://github.com/polywrap/evo.ninja/) |  |
 | ![Logo](https://framerusercontent.com/images/ao3DkC79XSpcW0pBupiDMVZfzyk.png) Self-operating computer | Let multimodal models operate a computer | [Link](https://www.hyperwriteai.com/self-operating-computer) | [Link](https://github.com/OthersideAI/self-operating-computer) |  |
+| ![Logo](https://assets.workoscdn.com/app-branding/environment_01J82BYXB5VT5EG1866YEJBYYZ/01JCWZRSC342M2TBGWBS1PMRZF) Anchor Browser | AI Agent to perform web browser tasks | [Link](https://anchorbrowser.io/) |  |  |
 | ![Logo](https://framerusercontent.com/images/7ZwSPFHkSLSVJAhG0uDaFk9wk.png) Aomni | AI agent designed for business intelligence | [Link](https://www.aomni.com/) |  |  |
 | ![Logo](https://framerusercontent.com/images/kilmEDcUu7r5IyD1qOJyPYoTJI.png) AutoGen | Multi-agent framework with diversity of agents | [Link](https://microsoft.github.io/autogen/) | [Link](https://github.com/microsoft/autogen) |  |
 | ![Logo](https://framerusercontent.com/images/aAW9to9J7h3oVJvrjxwDb1R95GY.png) SuperAGI | Framework to develop and deploy AI agents |  |  | [Link](https://twitter.com/_superAGI) |
